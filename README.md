@@ -4,7 +4,7 @@
 > 基于ElementUI搭建的前端页面
 
 
-*如果你属性vue.js并对ElementUI有了解，请前往 [cooking](https://github.com/elemefe/cooking), [here](https://github.com/ElementUI/element-cooking-starter) 那里有详细的快速搭建*
+*如果你不熟悉vue.js并对ElementUI不了解，请前往 [cooking](https://github.com/elemefe/cooking), [here](https://github.com/ElementUI/element-cooking-starter) 那里有详细的快速搭建和学习教程*
 
 ## Start
 
